@@ -56,10 +56,4 @@ Thus the output is verified.
 
 
 
-## 🧪 Program
-Add Code Here
-
-## Sample Output
-
-## Result
 
